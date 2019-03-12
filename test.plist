@@ -17,23 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>59A7P4988D.com.moli.reward.app</string>
+                <string>io.azhnq5.suixingdai</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
                 <string>随行贷</string>
-                <key>application-identifier</key>
-                <string>59A7P4988D.com.moli.reward.app</string>
-                <key>com.apple.developer.team-identifier</key>
-                <string>59A7P4988D</string>
-                <key>get-task-allow</key>
-                <false/>
-                <key>keychain-access-groups</key>
-                <array>
-                  <string>59A7P4988D.com.moli.reward.app</string>
-                </array>
             </dict>
         </dict>
     </array>
